@@ -11695,18 +11695,18 @@ __metadata:
   languageName: node
   linkType: hard
 
-"gatsby-plugin-typography@npm:^3.15.0":
-  version: 3.15.0
-  resolution: "gatsby-plugin-typography@npm:3.15.0"
+"gatsby-plugin-typography@npm:^5.13.1":
+  version: 5.13.1
+  resolution: "gatsby-plugin-typography@npm:5.13.1"
   dependencies:
-    "@babel/runtime": ^7.15.4
+    "@babel/runtime": ^7.20.13
   peerDependencies:
-    gatsby: ^3.0.0-next.0
-    react: ^16.9.0 || ^17.0.0
-    react-dom: ^16.9.0 || ^17.0.0
+    gatsby: ^5.0.0-next
+    react: ^18.0.0 || ^0.0.0
+    react-dom: ^18.0.0 || ^0.0.0
     react-typography: ^0.16.1 || ^1.0.0-alpha.0
     typography: ^0.16.0 || ^1.0.0-alpha.0
-  checksum: b7a16ad6001082a8df3fd0ac6894470597bcb79d9eb277057f918c9459e534b92d3b871586885b5b0b2ffc859fa5e1583a02e88ce73a79e9587a78cbd8b3621b
+  checksum: 830a531b98786b880efb8929ca80f739dc8d64d2d3e0b53ed71eab6f5c4007b6a04fbeaffa74fb8f6ef77551ebc3813444b68ac3f3349177823db9b7f74a3f97
   languageName: node
   linkType: hard
 
@@ -24693,7 +24693,7 @@ __metadata:
     gatsby-plugin-react-helmet: ^4.15.0
     gatsby-plugin-sass: ^4.15.0
     gatsby-plugin-sharp: ^3.15.0
-    gatsby-plugin-typography: ^3.15.0
+    gatsby-plugin-typography: ^5.13.1
     gatsby-remark-autolink-headers: ^4.12.0
     gatsby-remark-copy-linked-files: ^4.12.0
     gatsby-remark-custom-blocks: ^3.15.0
